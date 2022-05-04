@@ -1,0 +1,44 @@
+_repo: Model-Aeroplanes-and-Their-Engines-A-Practical-Book-for-Beginners_67852
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Woodhouse, Henry
+    alias: Casalegno, Mario Terenzio Enrico
+    birthdate: 1884
+    deathdate: 1970
+    gutenberg_agent_id: '54508'
+    url: http://www.gutenberg.org/2009/agents/54508
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Woodhouse_(forger)
+  illustrator:
+    agent_name: Schultz, Harry G.
+    gutenberg_agent_id: '54501'
+    url: http://www.gutenberg.org/2009/agents/54501
+creator:
+  author:
+    agent_name: Cavanagh, George Anthony
+    birthdate: 1894
+    gutenberg_agent_id: '54492'
+    url: http://www.gutenberg.org/2009/agents/54492
+description: ''
+gutenberg_issued: '2022-04-16'
+identifiers:
+  gutenberg: '67852'
+  lccn: '18014182'
+language: en
+pgterms:marc904: https://archive.org/details/modelaeroplanest00cava
+pgterms:marc905: 20201101034642cavanagh
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Brian Coe, Quentin Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Library of Congress)
+publication_note: United States :Moffat, Yard & Co,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Airplanes -- Models'
+- !lcc 'TL'
+- GITenberg
+title: 'Model Aeroplanes and Their Engines: A Practical Book for Beginners'
+url: http://www.gutenberg.org/ebooks/67852
