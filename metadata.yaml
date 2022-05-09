@@ -13,6 +13,9 @@ contributor:
     agent_name: Schultz, Harry G.
     gutenberg_agent_id: '54501'
     url: http://www.gutenberg.org/2009/agents/54501
+covers:
+- cover_type: archival
+  image_path: 67852-h/images/cover.jpg
 creator:
   author:
     agent_name: Cavanagh, George Anthony
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '54492'
     url: http://www.gutenberg.org/2009/agents/54492
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67852#Model-Aeroplanes-and-Their-Engines-A-Practical-Book-for-Beginners
 gutenberg_issued: '2022-04-16'
 identifiers:
   gutenberg: '67852'
